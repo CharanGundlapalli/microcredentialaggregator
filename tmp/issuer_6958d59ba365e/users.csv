@@ -1,0 +1,8 @@
+email,certificate_file,certificate_title,certificate_type,issuing_organization,issue_date,expiry_date,credential_id
+charan@test.com,CERT006.pdf,Machine Learning Basics,professional,Oracle,2023-11-10,2025-11-10,ORA006
+saveetha@gmail.com,CERT007.pdf,Frontend Development,skill,Oracle University,2022-09-01,2024-09-01,ORA007
+charan.user@test.com,CERT008.pdf,Advanced Java,professional,Java Foundation,2024-02-15,2026-02-15,JAVA008
+charan@test.com,CERT009.pdf,Database Management Systems,academic,Oracle University,2021-12-05,2024-12-05,ORA009
+saveetha@gmail.com,CERT010.pdf,Cloud Infrastructure Associate,professional,Oracle,2024-04-20,2026-04-20,ORA010
+charan@test.com,CERT011.pdf,Operating Systems,academic,Oracle University,2022-05-18,2025-05-18,ORA011
+charan.user@test.com,CERT012.pdf,Data Analytics Fundamentals,skill,Oracle University,2023-06-30,2025-06-30,ORA012

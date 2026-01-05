@@ -1,0 +1,2 @@
+email,certificate_file,certificate_title,certificate_type,issuing_organization,issue_date,expiry_date,credential_id
+charan@test4.com,CERT011.pdf,Machine Learning Basics,professional,Oracle,2023-11-10,2025-11-10,ORA006
